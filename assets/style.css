@@ -19,7 +19,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   width: 300px;
   height: 480px;
-  margin: 100px auto;
+  margin: 150px auto;
   border-radius: 20px;
 }
 
@@ -47,7 +47,8 @@ p.reguler {
 }
 
 .attribution {
-  font-size: 20px;
+  font-size: larger;
+  margin-top: -100px;
 }
 
 a {
